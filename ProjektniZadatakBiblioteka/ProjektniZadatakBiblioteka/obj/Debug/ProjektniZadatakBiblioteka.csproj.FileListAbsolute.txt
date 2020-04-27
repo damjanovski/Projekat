@@ -1,0 +1,22 @@
+C:\Users\Darko Damjanovski\source\repos\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\bin\Debug\ProjektniZadatakBiblioteka.exe.config
+C:\Users\Darko Damjanovski\source\repos\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\bin\Debug\ProjektniZadatakBiblioteka.exe
+C:\Users\Darko Damjanovski\source\repos\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\bin\Debug\ProjektniZadatakBiblioteka.pdb
+C:\Users\Darko Damjanovski\source\repos\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\obj\Debug\ProjektniZadatakBiblioteka.csprojAssemblyReference.cache
+C:\Users\Darko Damjanovski\source\repos\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\obj\Debug\ProjektniZadatakBiblioteka.BibliotekaForm.resources
+C:\Users\Darko Damjanovski\source\repos\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\obj\Debug\ProjektniZadatakBiblioteka.DodajKnjiguForm.resources
+C:\Users\Darko Damjanovski\source\repos\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\obj\Debug\ProjektniZadatakBiblioteka.PromeniKnjiguForm.resources
+C:\Users\Darko Damjanovski\source\repos\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\obj\Debug\ProjektniZadatakBiblioteka.Properties.Resources.resources
+C:\Users\Darko Damjanovski\source\repos\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\obj\Debug\ProjektniZadatakBiblioteka.csproj.GenerateResource.cache
+C:\Users\Darko Damjanovski\source\repos\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\obj\Debug\ProjektniZadatakBiblioteka.exe
+C:\Users\Darko Damjanovski\source\repos\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\obj\Debug\ProjektniZadatakBiblioteka.pdb
+C:\Users\Lenovo\Documents\OOP2020\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\bin\Debug\ProjektniZadatakBiblioteka.exe.config
+C:\Users\Lenovo\Documents\OOP2020\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\bin\Debug\ProjektniZadatakBiblioteka.exe
+C:\Users\Lenovo\Documents\OOP2020\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\bin\Debug\ProjektniZadatakBiblioteka.pdb
+C:\Users\Lenovo\Documents\OOP2020\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\obj\Debug\ProjektniZadatakBiblioteka.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\OOP2020\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\obj\Debug\ProjektniZadatakBiblioteka.BibliotekaForm.resources
+C:\Users\Lenovo\Documents\OOP2020\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\obj\Debug\ProjektniZadatakBiblioteka.DodajKnjiguForm.resources
+C:\Users\Lenovo\Documents\OOP2020\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\obj\Debug\ProjektniZadatakBiblioteka.PromeniKnjiguForm.resources
+C:\Users\Lenovo\Documents\OOP2020\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\obj\Debug\ProjektniZadatakBiblioteka.Properties.Resources.resources
+C:\Users\Lenovo\Documents\OOP2020\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\obj\Debug\ProjektniZadatakBiblioteka.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\OOP2020\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\obj\Debug\ProjektniZadatakBiblioteka.exe
+C:\Users\Lenovo\Documents\OOP2020\ProjektniZadatakBiblioteka\ProjektniZadatakBiblioteka\obj\Debug\ProjektniZadatakBiblioteka.pdb
